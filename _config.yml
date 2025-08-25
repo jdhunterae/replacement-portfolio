@@ -1,8 +1,18 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: BardCodr
+description: >- # this means to ignore newlines until "baseurl:"
+  Technical problem solver extraordinaire who believes the most
+  effective debugging tool is still careful thought...but a well-placed
+  print statement never hurt. Specializing in MacOS forensics,
+  code modernization, and explaining to people why turning it off
+  and on again actually does work.
 theme: just-the-docs
+baseurl: "replacement-portfolio"
+url: "https://jdhunterae.github.io"
 
-url: https://just-the-docs.github.io
+author:
+  name: Andrew Pomerleau
+  github: jdhunterae
+  linkedin: andrew-pomerleau
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
