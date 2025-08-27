@@ -65,9 +65,9 @@ While I primarily work with C++, Python, and software systems, my real motivatio
 
 ## Professional Journey
 
-### Software Specialist
+### Software Department Manager
 
-2022--Present
+2022--Present{: .text-muted }
 
 - Lead technical documentation initiatives for digital forensic tools, including complete overhauls of user manuals
 - Spearhead project planning for major codebase modernization, creating detailed migration specifications from C++/Qt to Swift/SwiftUI
@@ -76,7 +76,7 @@ While I primarily work with C++, Python, and software systems, my real motivatio
 
 ### Technical Writer & Editor
 
-2019--2020
+2019--2020{: .text-muted }
 
 - Created and refined technical documentation while maintaining consistent style guidelines
 - Developed standardized formatting procedures for complex documents using LaTeX and Markdown
@@ -84,7 +84,7 @@ While I primarily work with C++, Python, and software systems, my real motivatio
 
 ### Remote Support Technician
 
-2017--2018
+2017--2018{: .text-muted }
 
 - Resolved complex network and connectivity issues for small business and residential customers
 - Developed and refined support protocols to improve troubleshooting efficiency
@@ -92,7 +92,7 @@ While I primarily work with C++, Python, and software systems, my real motivatio
 
 ### IT Systems Professional
 
-2015--2016
+2015--2016{: .text-muted }
 
 - Administered network infrastructure and managed security protocols for a 100-user research organization
 - Maintained and supported diverse technical environments including specialized laboratory equipment
