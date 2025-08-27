@@ -27,32 +27,37 @@ While I primarily work with C++, Python, and software systems, my real motivatio
 
 <div class="row">
     <div class="col-md-4">
-        ### Languages
-
-        - Python
-        - Java
-        - Ruby
-        - HTML/CSS
-        - JavaScript
-        - C++
-        - Swift
-        - SQL/SQLite
+        <h3>Languages</h3>
+        <ul>
+            <li>Python</li>
+            <li>Java</li>
+            <li>Ruby</li>
+            <li>HTML/CSS</li>
+            <li>JavaScript</li>
+            <li>C++</li>
+            <li>Swift</li>
+            <li>SQL/SQLite</li>
+        </ul>
     </div>
     <div class="col-md-4">
-        ### Platforms
+        <h3>Platforms</h3>
 
-        - MacOS
-        - Windows
-        - Linux (Fedora/Red Hat & Ubuntu/Debian)
+        <ul>
+            <li>MacOS</li>
+            <li>Windows</li>
+            <li>Linux (Fedora/Red Hat & Ubuntu/Debian)</li>
+        </ul>
     </div>
     <div class="col-md-4">
-        ### Tools
+        <h3>Tools</h3>
 
-        - Git
-        - LaTex
-        - Markdown
-        - Visual Studio Code
-        - Xcode
+        <ul>
+            <li>Git</li>
+            <li>LaTex</li>
+            <li>Markdown</li>
+            <li>Visual Studio Code</li>
+            <li>Xcode</li>
+        </ul>
     </div>
 </div>
 
