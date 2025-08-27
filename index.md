@@ -25,8 +25,8 @@ I contribute to MacOS Digital Forensics tools and assist with code modernization
 
 While I primarily work with C++, Python, and software systems, my real motivation is applying technical expertise to practical problem-solving, ensuring seamless operations.
 
-<div class="row">
-    <div class="col-md-4">
+<div class="skills-grid">
+    <div>
         <h3>Languages</h3>
         <ul>
             <li>Python</li>
@@ -39,7 +39,7 @@ While I primarily work with C++, Python, and software systems, my real motivatio
             <li>SQL/SQLite</li>
         </ul>
     </div>
-    <div class="col-md-4">
+    <div>
         <h3>Platforms</h3>
 
         <ul>
@@ -48,7 +48,7 @@ While I primarily work with C++, Python, and software systems, my real motivatio
             <li>Linux (Fedora/Red Hat & Ubuntu/Debian)</li>
         </ul>
     </div>
-    <div class="col-md-4">
+    <div>
         <h3>Tools</h3>
 
         <ul>
