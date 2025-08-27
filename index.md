@@ -65,34 +65,26 @@ While I primarily work with C++, Python, and software systems, my real motivatio
 
 ## Professional Journey
 
-### Software Department Manager
-
-2022--Present{: .text-muted }
+### Software Department Manager <small class="text-muted">(2022--Present)</small>
 
 - Lead technical documentation initiatives for digital forensic tools, including complete overhauls of user manuals
 - Spearhead project planning for major codebase modernization, creating detailed migration specifications from C++/Qt to Swift/SwiftUI
 - Manage development and support for MacOS forensics software across C++, Python, and bash shell codebases
 - Author and maintain product documentation, translating complex forensic concepts into clear user guidance
 
-### Technical Writer & Editor
-
-2019--2020{: .text-muted }
+### Technical Writer & Editor <small class="text-muted">(2019--2020)</small>
 
 - Created and refined technical documentation while maintaining consistent style guidelines
 - Developed standardized formatting procedures for complex documents using LaTeX and Markdown
 - Collaborated with clients to transform technical concepts into clear, accessible documentation
 
-### Remote Support Technician
-
-2017--2018{: .text-muted }
+### Remote Support Technician <small class="text-muted">(2017--2018)</small>
 
 - Resolved complex network and connectivity issues for small business and residential customers
 - Developed and refined support protocols to improve troubleshooting efficiency
 - Diagnosed and resolved issues across various operating systems and network configurations
 
-### IT Systems Professional
-
-2015--2016{: .text-muted }
+### IT Systems Professional <small class="text-muted">(2015--2016)</small>
 
 - Administered network infrastructure and managed security protocols for a 100-user research organization
 - Maintained and supported diverse technical environments including specialized laboratory equipment
